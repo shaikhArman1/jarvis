@@ -1,0 +1,19 @@
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore build folders
+build/
+dist/
+*.spec
+
+# Ignore executables and large binaries
+*.exe
+*.zip
+*.jpg
+*.png
+*.mp4
+
+# Ignore system files
+.DS_Store
+Thumbs.db
