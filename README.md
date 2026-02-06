@@ -34,3 +34,5 @@ This project was built to explore how voice-based systems work and to understand
 5. Responds using text-to-speech  
 
 ---
+
+<!-- commit-log: 2026-02-06T18:15:08 - refactor: move config values to constants file -->
