@@ -36,3 +36,5 @@ This project was built to explore how voice-based systems work and to understand
 ---
 
 <!-- commit-log: 2026-02-06T18:15:08 - refactor: move config values to constants file -->
+
+<!-- commit-log: 2026-02-11T17:52:28 - fix: resolve import ordering and circular dependency -->
