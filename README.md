@@ -42,3 +42,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-02-12T21:18:34 - docs: add README section for local setup -->
 
 <!-- commit-log: 2026-02-15T12:26:40 - docs: update inline comments and docstrings -->
+
+<!-- commit-log: 2026-02-18T17:40:15 - chore: remove unused imports and dead code -->
