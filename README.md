@@ -44,3 +44,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-02-15T12:26:40 - docs: update inline comments and docstrings -->
 
 <!-- commit-log: 2026-02-18T17:40:15 - chore: remove unused imports and dead code -->
+
+<!-- commit-log: 2026-02-23T15:06:45 - fix: resolve import ordering and circular dependency -->
