@@ -48,3 +48,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-02-23T15:06:45 - fix: resolve import ordering and circular dependency -->
 
 <!-- commit-log: 2026-02-24T21:40:02 - refactor: rename variables for clarity -->
+
+<!-- commit-log: 2026-02-26T18:12:55 - test: add unit tests for core functions -->
