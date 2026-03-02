@@ -50,3 +50,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-02-24T21:40:02 - refactor: rename variables for clarity -->
 
 <!-- commit-log: 2026-02-26T18:12:55 - test: add unit tests for core functions -->
+
+<!-- commit-log: 2026-03-02T21:30:30 - fix: correct file path handling on Windows systems -->
