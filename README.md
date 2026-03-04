@@ -52,3 +52,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-02-26T18:12:55 - test: add unit tests for core functions -->
 
 <!-- commit-log: 2026-03-02T21:30:30 - fix: correct file path handling on Windows systems -->
+
+<!-- commit-log: 2026-03-04T22:17:13 - fix: resolve import ordering and circular dependency -->
