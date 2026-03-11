@@ -56,3 +56,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-03-04T22:17:13 - fix: resolve import ordering and circular dependency -->
 
 <!-- commit-log: 2026-03-08T09:54:46 - refactor: extract helper functions for better modularity -->
+
+<!-- commit-log: 2026-03-11T20:35:46 - perf: cache repeated API calls to reduce latency -->
