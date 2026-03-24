@@ -64,3 +64,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-03-17T19:34:00 - fix: adjust threshold values based on testing -->
 
 <!-- commit-log: 2026-03-21T13:09:43 - chore: remove unused imports and dead code -->
+
+<!-- commit-log: 2026-03-24T18:56:45 - fix: handle None types in response parser -->
