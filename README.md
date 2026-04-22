@@ -70,3 +70,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-03-25T12:21:41 - feat: add input validation and error handling -->
 
 <!-- commit-log: 2026-03-30T15:54:19 - fix: adjust threshold values based on testing -->
+
+<!-- commit-log: 2026-04-22T14:47:41 - refactor: rename variables for clarity -->
