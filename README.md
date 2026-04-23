@@ -74,3 +74,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-04-22T14:47:41 - refactor: rename variables for clarity -->
 
 <!-- commit-log: 2026-04-23T09:03:15 - refactor: move config values to constants file -->
+
+<!-- commit-log: 2026-04-23T12:18:58 - perf: cache repeated API calls to reduce latency -->
