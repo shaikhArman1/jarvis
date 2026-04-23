@@ -80,3 +80,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-04-23T18:49:52 - refactor: rename variables for clarity -->
 
 <!-- commit-log: 2026-04-23T20:48:11 - fix: correct file path handling on Windows systems -->
+
+<!-- commit-log: 2026-04-23T21:23:53 - perf: cache repeated API calls to reduce latency -->
