@@ -94,3 +94,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-05-13T18:44:41 - fix: resolve edge case in data processing pipeline -->
 
 <!-- commit-log: 2026-05-13T19:05:06 - feat: add logging to main processing module -->
+
+<!-- commit-log: 2026-05-13T20:55:29 - fix: resolve import ordering and circular dependency -->
