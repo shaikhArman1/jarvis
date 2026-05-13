@@ -90,3 +90,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-05-13T11:10:34 - fix: adjust threshold values based on testing -->
 
 <!-- commit-log: 2026-05-13T15:34:57 - refactor: extract helper functions for better modularity -->
+
+<!-- commit-log: 2026-05-13T18:44:41 - fix: resolve edge case in data processing pipeline -->
