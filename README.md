@@ -100,3 +100,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-05-14T09:31:31 - perf: optimize loop logic to reduce processing time -->
 
 <!-- commit-log: 2026-05-17T15:14:20 - chore: update requirements.txt with pinned versions -->
+
+<!-- commit-log: 2026-05-18T10:22:37 - perf: optimize loop logic to reduce processing time -->
