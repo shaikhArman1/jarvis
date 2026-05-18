@@ -106,3 +106,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-05-18T12:20:40 - fix: adjust threshold values based on testing -->
 
 <!-- commit-log: 2026-05-18T17:44:04 - docs: update inline comments and docstrings -->
+
+<!-- commit-log: 2026-05-18T17:06:20 - feat: add retry logic for network requests -->
