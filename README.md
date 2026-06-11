@@ -110,3 +110,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-05-18T17:06:20 - feat: add retry logic for network requests -->
 
 <!-- commit-log: 2026-05-18T21:10:04 - refactor: extract helper functions for better modularity -->
+
+<!-- commit-log: 2026-06-11T10:12:28 - refactor: move config values to constants file -->
