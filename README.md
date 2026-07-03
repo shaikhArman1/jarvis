@@ -114,3 +114,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-06-11T10:12:28 - refactor: move config values to constants file -->
 
 <!-- commit-log: 2026-07-03T10:03:15 - fix: resolve edge case in data processing pipeline -->
+
+<!-- commit-log: 2026-07-03T19:51:10 - test: add unit tests for core functions -->
