@@ -134,3 +134,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-07-20T18:08:12 - test: add unit tests for core functions -->
 
 <!-- commit-log: 2026-07-20T20:34:42 - chore: remove unused imports and dead code -->
+
+<!-- commit-log: 2026-07-20T20:42:18 - refactor: rename variables for clarity -->
