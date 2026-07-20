@@ -128,3 +128,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-07-20T17:22:21 - feat: add logging to main processing module -->
 
 <!-- commit-log: 2026-07-20T17:19:29 - fix: resolve import ordering and circular dependency -->
+
+<!-- commit-log: 2026-07-20T18:12:58 - feat: add logging to main processing module -->
