@@ -124,3 +124,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-07-20T11:10:08 - fix: adjust threshold values based on testing -->
 
 <!-- commit-log: 2026-07-20T12:36:13 - fix: resolve edge case in data processing pipeline -->
+
+<!-- commit-log: 2026-07-20T17:22:21 - feat: add logging to main processing module -->
