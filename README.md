@@ -118,3 +118,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-07-03T19:51:10 - test: add unit tests for core functions -->
 
 <!-- commit-log: 2026-07-08T19:47:33 - fix: handle None types in response parser -->
+
+<!-- commit-log: 2026-07-20T11:39:16 - chore: update requirements.txt with pinned versions -->
