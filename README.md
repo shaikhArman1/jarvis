@@ -140,3 +140,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-07-20T20:52:33 - refactor: rename variables for clarity -->
 
 <!-- commit-log: 2026-07-20T21:17:30 - docs: add README section for local setup -->
+
+<!-- commit-log: 2026-07-22T09:54:21 - fix: handle None types in response parser -->
