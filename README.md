@@ -150,3 +150,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-07-22T20:02:36 - perf: cache repeated API calls to reduce latency -->
 
 <!-- commit-log: 2026-07-22T21:57:52 - feat: add input validation and error handling -->
+
+<!-- commit-log: 2026-07-23T18:28:01 - feat: add input validation and error handling -->
