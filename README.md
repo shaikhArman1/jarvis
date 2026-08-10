@@ -162,3 +162,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-08-10T16:58:28 - docs: update inline comments and docstrings -->
 
 <!-- commit-log: 2026-08-10T18:26:10 - fix: correct file path handling on Windows systems -->
+
+<!-- commit-log: 2026-08-10T22:16:41 - docs: add README section for local setup -->
