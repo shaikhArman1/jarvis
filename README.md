@@ -156,3 +156,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-08-10T10:39:33 - chore: remove unused imports and dead code -->
 
 <!-- commit-log: 2026-08-10T12:40:28 - feat: add retry logic for network requests -->
+
+<!-- commit-log: 2026-08-10T16:39:22 - feat: add logging to main processing module -->
