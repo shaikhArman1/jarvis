@@ -168,3 +168,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-08-13T09:10:51 - fix: correct file path handling on Windows systems -->
 
 <!-- commit-log: 2026-08-13T17:43:58 - refactor: move config values to constants file -->
+
+<!-- commit-log: 2026-08-19T12:17:28 - feat: add input validation and error handling -->
