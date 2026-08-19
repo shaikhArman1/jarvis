@@ -174,3 +174,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-08-19T14:09:56 - refactor: extract helper functions for better modularity -->
 
 <!-- commit-log: 2026-08-19T18:32:39 - fix: adjust threshold values based on testing -->
+
+<!-- commit-log: 2026-08-19T20:00:25 - perf: optimize loop logic to reduce processing time -->
