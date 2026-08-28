@@ -184,3 +184,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-08-28T14:13:31 - docs: update inline comments and docstrings -->
 
 <!-- commit-log: 2026-08-28T16:33:42 - refactor: clean up utility functions and improve code readability -->
+
+<!-- commit-log: 2026-08-28T19:41:58 - fix: resolve edge case in data processing pipeline -->
