@@ -192,3 +192,5 @@ This project was built to explore how voice-based systems work and to understand
 <!-- commit-log: 2026-09-03T12:53:23 - fix: handle None types in response parser -->
 
 <!-- commit-log: 2026-09-03T13:38:45 - refactor: extract helper functions for better modularity -->
+
+<!-- commit-log: 2026-09-03T17:30:34 - test: add unit tests for core functions -->
